@@ -4,8 +4,8 @@ namespace martinkz\HelloWorld;
 
 class Index
 {
-    public function greet($greet = "Hello World")
+    public function greet()
     {
-        return $greet;
+        return "test 1";
     }
 }
