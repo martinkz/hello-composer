@@ -1,6 +1,6 @@
 <?php 
 
-namespace martinkz\HelloWorld;
+namespace martinkz\PrismicCacheTool;
 
 class Index
 {
