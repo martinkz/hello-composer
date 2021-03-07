@@ -2,7 +2,7 @@
 
 namespace martinkz\PrismicCacheTool;
 
-class Index
+class Indexx
 {
     public static function init()
     {
