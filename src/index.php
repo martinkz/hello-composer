@@ -2,10 +2,10 @@
 
 namespace martinkz\PrismicCacheTool;
 
-class SetUpCache
+class Index
 {
-    public static function init2()
+    public static function init()
     {
-        return "test 4";
+        return "test3";
     }
 }
