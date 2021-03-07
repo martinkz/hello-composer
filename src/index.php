@@ -4,8 +4,8 @@ namespace martinkz\HelloWorld;
 
 class Index
 {
-    public function greet()
+    public static function greet()
     {
-        return "test 1";
+        return "test 2";
     }
 }
